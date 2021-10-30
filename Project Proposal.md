@@ -12,7 +12,7 @@ By: Amirah Alotaibi, Alanoud alhussain, Amal Altamran.
 
 ## Introduction:
 
-Car insurance use is to provide financial protection against physical damage or bodily injury resulting from traffic collisions. car insurance may additionally offer financial Protection against theft of the vehicle ..etc. 
+Car insurance use is to provide financial protection against physical damage or bodily injury resulting from traffic collisions. Car insurance may additionally offer financial Protection against theft of the vehicle ..etc. 
 
 We plane to make a prediction if a customer has claimed his/her loan or not.
 
@@ -65,7 +65,7 @@ The datasets we will using are taken from Kaggle website.
 
 Jupter notebook
 
-Python libraries: Pandas,Numpy,Sklearn and Seaborn and Matplotlib.
+Python libraries: Pandas,Numpy,Sklearn, Seaborn and Matplotlib.
 
 
 
