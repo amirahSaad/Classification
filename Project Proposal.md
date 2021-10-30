@@ -12,48 +12,48 @@ By: Amirah Alotaibi, Alanoud alhussain, Amal Altamran.
 
 ## Introduction:
 
-Car insurance use is to provide financial protection against physical damage or bodily injury resulting from traffic collisions. car insurance may additionally offer financial protection against theft of the vehicle ..etc. 
+Car insurance use is to provide financial protection against physical damage or bodily injury resulting from traffic collisions. car insurance may additionally offer financial Protection against theft of the vehicle ..etc. 
 
-we plane to make a prediction if a customer has claimed his/her loan or not.
+We plane to make a prediction if a customer has claimed his/her loan or not.
 
 
 ## Features:
 
-1-id
+1-Id
 
-2-age
+2-Age
 
-3-gender
+3-Gender
 
-4-rece
+4-Rece
 
-5-DRIVING Experience
+5-Driving Experience
 
-6-eduction
+6-Eduction
 
-7-income
+7-Income
 
-8-CREDIT_SCORE
+8-Credit Score
 
-9-VEHICLE OWNERSHIP
+9-Vehicle Ownership
 
-10-VEHICLE YEAR
+10-Vehicle Year
 
 11-Married
 
 12-Children
 
-13-postal code
+13-Postal code
 
-14-annual mileage 
+14-Annual mileage 
 
-15-VEHICLE type
+15-Vehicle type
 
-16-speeding violations
+16-Speeding violations
 
 17-Duis
 
-18-past accident
+18-Past accident
 
 
 ## Datasets:
